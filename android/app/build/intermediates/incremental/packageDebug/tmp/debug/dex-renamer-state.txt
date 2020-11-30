@@ -1,0 +1,4 @@
+#Sun Nov 29 18:50:09 MSK 2020
+base.0=/Users/dimakozoliy/WebstormProjects/laba2/paint/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
